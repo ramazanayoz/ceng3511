@@ -14,7 +14,7 @@ You can run with this commmand
 B2, 1\
 D4, 2\
 A1, A2\
-A4 B4\
+A4, B4\
 C2, C1\
 D2, D1
 
