@@ -7,7 +7,7 @@ P2
 
 You can run with this commmand
 
-**python Futoshiki.py** 
+**python futoshiki.py** 
 
 > input file must be same folder  and must be this format
 
